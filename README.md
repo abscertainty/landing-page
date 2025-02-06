@@ -8,9 +8,8 @@ for the design since this is what I've learned so far in the TOP course.
 At the end of the project I will add in a list the new things I learn 
 from this project.
 
-The 5 Photos used are uploaded to Pexels by:
-    Photo by Rô Acunha: https://www.pexels.com/photo/photo-of-thunderstorm-2531709/
-    Photo by Frank Cone: https://www.pexels.com/photo/bird-perched-on-tree-branch-2961876/
-    Photo by Rô Acunha: https://www.pexels.com/photo/photo-of-thunderstorm-2531709/
-    Photo by sk: https://www.pexels.com/photo/black-and-red-commuter-bike-844813/
-    Photo by Reynaldo #brigworkz Brigantty: https://www.pexels.com/photo/buildings-with-blue-light-747101/
+The 4 Photos used are uploaded to Pexels by:
+    - Photo by Rô Acunha: https://www.pexels.com/photo/photo-of-thunderstorm-2531709/
+    - Photo by Frank Cone: https://www.pexels.com/photo/bird-perched-on-tree-branch-2961876/
+    - Photo by sk: https://www.pexels.com/photo/black-and-red-commuter-bike-844813/
+    - Photo by Reynaldo #brigworkz Brigantty: https://www.pexels.com/photo/buildings-with-blue-light-747101/
