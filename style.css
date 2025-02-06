@@ -11,6 +11,8 @@ p {
     margin: 0;
 }
 
+/* HEADER */
+
 .header {
     display: flex;
     flex-direction: column;
@@ -96,5 +98,49 @@ p {
     color: white;
 }
 
+/* CONTENT */
 
+/* INFO DIV */
 
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+}
+
+.info-header {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    margin: 32px 0;
+    text-align: center;
+}
+
+.illustrations {
+    display: flex;
+    gap: 32px;
+    margin-bottom: 96px;
+}
+
+.sub-illustration {
+    flex: 1;
+    max-width: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+}
+
+.blue-square {
+    width: 120px;
+    height: 120px;
+    border: 2pt rgb(70, 167, 199) solid;
+    border-radius: 12px;
+    justify-content: center;
+}
+
+.sub-illustration p {
+    text-align: center;
+    color: #1f2937;
+}
