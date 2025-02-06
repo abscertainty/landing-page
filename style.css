@@ -144,3 +144,27 @@ p {
     text-align: center;
     color: #1f2937;
 }
+
+/* QUOTE */
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 350px;
+    padding: 120px 220px;
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+   font-size: 36px; 
+   font-style: italic;
+   font-weight: 200;
+   color: #1f2937;
+}
+
+.citation {
+    text-align: end;
+    font-weight: 800;
+    color: #1f2937;
+}
