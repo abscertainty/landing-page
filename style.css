@@ -4,6 +4,8 @@
 
 body {
     margin: 0;
+    display: flex;
+    flex-direction: column;
 }
 
 p {
@@ -16,7 +18,7 @@ p {
 .header {
     display: flex;
     flex-direction: column;
-    height: 350px;
+    height: 372px;
     background-color: #1f2937;
     padding: 12px 140px 96px 140px;
     gap: 96px;
@@ -98,16 +100,7 @@ p {
     color: white;
 }
 
-/* CONTENT */
-
 /* INFO DIV */
-
-.content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    height: 350px;
-}
 
 .info-header {
     font-size: 36px;
@@ -119,11 +112,13 @@ p {
 
 .illustrations {
     display: flex;
+    justify-content: center;
     gap: 32px;
     margin-bottom: 96px;
 }
 
 .sub-illustration {
+    height: 300px;
     flex: 1;
     max-width: 150px;
     display: flex;
@@ -151,8 +146,9 @@ p {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 350px;
-    padding: 120px 220px;
+    height: 300px;
+    padding: 72px 246px;
+    gap: 8px;
     background-color: #e5e7eb;
 }
 
@@ -173,13 +169,13 @@ p {
 
 .signup {
     display: flex;
-    padding: 24px 64px;
-    margin: 72px 96px;
+    padding: 32px 64px;
+    margin: 72px 228px;
     justify-content: space-between;
     align-items: center;
     background-color: #3882f6;
     color: white;
-    gap: 128px;
+    gap: 96px;
     border-radius: 4px;
 }
 
@@ -194,7 +190,7 @@ p {
 }
 
 .smaller-signup-text {
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .signup-button {
@@ -203,4 +199,15 @@ p {
     border-radius: 4px;
     border: 2px white solid;
     color: white;
+}
+
+/* FOOTER */
+
+.footer {
+    display: flex;
+    height: 86px;
+    background-color: #1f2937;
+    color: white;
+    justify-content: center;
+    align-items: center;
 }
